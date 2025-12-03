@@ -19,3 +19,12 @@ Figure 5. Basic emotion dynamic properties derived from 102 full-length films.
 Figure 6. Core dimensions and density distributions of the emotion dynamic space.
 
 Figure 7. Co-occurrence of emotions in naturalistic movies.
+
+### Usage
+git clone https://github.com/ncclab-sustech/DyEmo-movieDanmu.git
+
+cd DyEmo-movieDanmu
+
+conda env create -f environment.yml
+
+conda activate your-env-name
