@@ -1,0 +1,16 @@
+name: danmu
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.10
+  - pip
+  - numpy
+  - pandas
+  - matplotlib
+  - requests
+  - urllib3
+  - chardet
+  - ipykernel
+  - pip:
+      - openai
