@@ -14,6 +14,8 @@ from torch.nn.utils.rnn import pack_sequence
 os.environ["KMP_DUPLICATE_LIB_OK"] = "TRUE"
 device = torch.device('cuda' if torch.cuda.is_available() else 'cpu')
 
+# postprocess_test.pkl used here can be downloaded from DyEmo dataset on the ScienceDB platform
+# https://www.scidb.cn/en/detail?dataSetId=077be74c4cb44fd9bad96ddb4d1520df&version=V1
 
 # ---------------------------------------------------------
 # 0. SET RANDOM SEEDS FOR REPRODUCIBILITY
