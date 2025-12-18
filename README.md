@@ -6,19 +6,19 @@ Emotions are inherently dynamic, yet existing methods fail to capture their fine
 
 The Jupyter Notebooks provide code for reproducing figures in this paper:
 
-Figure 1. LLM-based framework for decoding emotion dynamics via crowdsourced Danmu.
+`reproduce_figure1.ipynb`: Figure 1. LLM-based framework for decoding emotion dynamics via crowdsourced Danmu.
 
-Figure 2. Performance of LLMs in Danmu-based emotion decoding.
+`reproduce_figure2.ipynb`: Figure 2. Performance of LLMs in Danmu-based emotion decoding.
 
-Figure 3. Alignment of LLM-derived emotion ratings with human ratings based on Danmu and movie viewing.
+`reproduce_figure3.ipynb`: Figure 3. Alignment of LLM-derived emotion ratings with human ratings based on Danmu and movie viewing.
 
-Figure 4. Reliability of LLM-derived six-dimensional emotion dynamics.
+`reproduce_figure4.ipynb`: Figure 4. Reliability of LLM-derived six-dimensional emotion dynamics.
 
-Figure 5. Basic emotion dynamic properties derived from 102 full-length films.
+`reproduce_figure5.ipynb`: Figure 5. Basic emotion dynamic properties derived from 102 full-length films.
 
-Figure 6. Core dimensions and density distributions of the emotion dynamic space.
+`reproduce_figure6.ipynb`: Figure 6. Core dimensions and density distributions of the emotion dynamic space.
 
-Figure 7. Co-occurrence of emotions in naturalistic movies.
+`reproduce_figure7.ipynb`: Figure 7. Co-occurrence of emotions in naturalistic movies.
 
 ### Usage
 git clone https://github.com/ncclab-sustech/DyEmo-movieDanmu.git
