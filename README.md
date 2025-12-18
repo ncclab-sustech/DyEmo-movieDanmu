@@ -30,7 +30,7 @@ conda env create -f environment.yml
 conda activate your-env-name
 
 ### System requirements
-The code was run on a Windows 11 operating system. We recommend running the code in an Anaconda environment. See environment.yml for dependencies and versions.
+The code was run on a Windows 11 operating system. We recommend running the code in an Anaconda environment. See environment.yml for dependencies and versions. The installation typically requires several minutes.
 
 
 
