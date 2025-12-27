@@ -4,7 +4,9 @@ Emotions are inherently dynamic, yet existing methods fail to capture their fine
 
 ![fig1_framework4](https://github.com/user-attachments/assets/31f5e4c5-5496-456f-8ae1-bd662cfac15b)
 
-https://github.com/ncclab-sustech/DyEmo-movieDanmu/releases/download/v1.0/supvideo.mp4
+## Demo Video
+
+https://github.com/ncclab-sustech/DyEmo-movieDanmu/blob/main/supvideo.mp4
 
 The Jupyter Notebooks provide code for reproducing figures in this paper:
 
