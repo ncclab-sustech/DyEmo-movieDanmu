@@ -4,6 +4,8 @@ Emotions are inherently dynamic, yet existing methods fail to capture their fine
 
 ![fig1_framework4](https://github.com/user-attachments/assets/31f5e4c5-5496-456f-8ae1-bd662cfac15b)
 
+![demo](supvideo.mp4)
+
 The Jupyter Notebooks provide code for reproducing figures in this paper:
 
 `reproduce_figure1.ipynb`: Figure 1. LLM-based framework for decoding emotion dynamics via crowdsourced Danmu.
