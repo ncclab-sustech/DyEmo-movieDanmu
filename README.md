@@ -4,7 +4,7 @@ Emotions are inherently dynamic, yet existing methods fail to capture their fine
 
 ![fig1_framework4](https://github.com/user-attachments/assets/31f5e4c5-5496-456f-8ae1-bd662cfac15b)
 
-<img src="demo_video.gif" width="50%">
+<img src="demo_video.gif" width="100%">
 
 The Jupyter Notebooks provide code for reproducing figures in this paper:
 
