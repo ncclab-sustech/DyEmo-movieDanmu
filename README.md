@@ -1,6 +1,6 @@
 # DyEmo-movieDanmu
-### Crowdsourcing emotion trajectories: Decoding emotion dynamics from Danmu during naturalistic movie viewing.
-Emotions are inherently dynamic, yet existing methods fail to capture their fine-grained temporal evolution in naturalistic contexts. Here, we introduce a large language model (LLM)-based framework that decodes high-resolution, multidimensional emotion dynamics from massive-scale crowdsourced Danmu (i.e., bullet-screen comments) during naturalistic movie viewing. We derive continuous ratings across multiple emotion categories from 7.6 million Danmu comments spanning over 100 widely viewed full-length movies, yielding emotion trajectories with second-level temporal resolution. These trajectories align closely with human annotations and demonstrate robustness across various LLM architectures, Danmu sender cohorts, posting-year cohorts, and languages. Leveraging these data, we quantify key dynamical properties—such as inertia, instability, controllability, and self-similarity. Furthermore, we show that the dynamic emotion space is structured around three dimensions—polarity, complexity, and intensity—forming a continuous landscape of mixed emotional states rather than discrete emotion categories. This scalable and ecologically grounded approach provides a powerful framework for understanding emotion dynamics in naturalistic viewing.
+### Danmu captures temporal and state-space structure in population-level emotion dynamics.
+Emotions are inherently dynamic, yet their fine-grained temporal and multidimensional organization remains difficult to characterize in naturalistic settings. To examine how emotional expression unfolds at the population level, we derived second-level, multidimensional trajectories from 7.57 million temporally anchored Danmu comments spanning 198 hours of naturalistic viewing, with large language models used for semantic inference. The resulting trajectories converged with human judgments and neural responses and remained robust across language models, independent audience samples, posting periods, and linguistic contexts. Different emotion dimensions exhibited distinct temporal signatures in persistence, variability, and transition properties, and these dynamics predicted audience engagement beyond static emotion profiles. When considered jointly, the emotion trajectories occupied a shared low-dimensional space organized by polarity, complexity, and intensity, with states concentrated around a recurrent central basin and varying systematically in activation, blending, and trajectory speed toward the periphery. Together, these findings reveal temporal and state-space organization of population-level emotion dynamics and demonstrate the value of temporally aligned digital traces for observing such dynamics at scale.
 
 ![fig1_framework4](https://github.com/user-attachments/assets/31f5e4c5-5496-456f-8ae1-bd662cfac15b)
 
@@ -8,9 +8,9 @@ Emotions are inherently dynamic, yet existing methods fail to capture their fine
 
 The Jupyter Notebooks provide code for reproducing figures in this paper:
 
-`reproduce_figure1.ipynb`: Figure 1. LLM-based framework for decoding emotion dynamics via crowdsourced Danmu.
+`reproduce_figure1.ipynb`: Figure 1. LLM-based framework for inferring emotion dynamics via crowdsourced Danmu.
 
-`reproduce_figure2.ipynb`: Figure 2. Performance of LLMs in Danmu-based emotion decoding.
+`reproduce_figure2.ipynb`: Figure 2. Performance of LLMs in Danmu-based emotion inference.
 
 `reproduce_figure3.ipynb`: Figure 3. Alignment of LLM-derived emotion ratings with human ratings based on Danmu and movie viewing.
 
