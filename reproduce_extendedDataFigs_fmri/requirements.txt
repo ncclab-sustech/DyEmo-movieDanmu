@@ -1,0 +1,10 @@
+numpy==2.3.5
+pandas==2.3.3
+torch==2.11.0
+matplotlib==3.10.6
+scipy==1.16.3
+nibabel==5.4.2
+nilearn==0.13.1
+IPython==9.7.0
+ipykernel==6.31.0
+jupyterlab==4.4.7
