@@ -6,7 +6,7 @@ Emotions are inherently dynamic, yet their fine-grained temporal and multidimens
 
 <img src="demo_video.gif" width="100%">
 
-The Jupyter Notebooks provide code for reproducing figures in this paper:
+### We provide code for reproducing figures in this paper:
 
 `reproduce_figure1.ipynb`: Figure 1. LLM-based framework for inferring emotion dynamics via crowdsourced Danmu.
 
@@ -41,6 +41,14 @@ The Jupyter Notebooks provide code for reproducing figures in this paper:
 `reproduce_supfig5.ipynb`: Supplementary Figure 5. Reliability comparison between LLM-human and human-human emotion ratings.
 
 `reproduce_supfig7_10.ipynb`: Supplementary Figures 7 and 10. Comparison between adaptive- and fixed-window emotion trajectories and their dynamic properties.
+
+`reproduce_extendedDataFigs_fmri`: Extended Data Figures. Reproduction of fMRI encoding analyses and neural validation results.
+
+`VAD_classification_new`: Code for emotion classification experiments on the VAD dataset.
+
+`Other_LLMs`: Code for emotion inference using additional large language models.
+
+`VLMs`: Code for emotion inference using vision-language models.
 
 ### Usage
 git clone https://github.com/ncclab-sustech/DyEmo-movieDanmu.git
