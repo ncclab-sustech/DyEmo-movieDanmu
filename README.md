@@ -14,13 +14,33 @@ The Jupyter Notebooks provide code for reproducing figures in this paper:
 
 `reproduce_figure3.ipynb`: Figure 3. Alignment of LLM-derived emotion ratings with human ratings based on Danmu and movie viewing.
 
-`reproduce_figure4.ipynb`: Figure 4. Reliability of LLM-derived six-dimensional emotion dynamics.
+`reproduce_figure4_supfig6_8.ipynb`: Figure 4 and Supplementary Figures 6–8. Reliability of LLM-derived six-dimensional emotion dynamics.
 
-`reproduce_figure5.ipynb`: Figure 5. Basic emotion dynamic properties derived from 102 full-length films.
+`reproduce_figure5_a-d_supfig9.ipynb`: Figure 5a–d and Supplementary Figure 9. Emotion dynamic properties derived from 102 full-length films.
 
-`reproduce_figure6.ipynb`: Figure 6. Core dimensions and density distributions of the emotion dynamic space.
+`reproduce_figure5_e_pred_likes.ipynb`: Figure 5e and Supplementary Figures 15–17. Prediction of audience engagement from emotion dynamics.
 
-`reproduce_figure7.ipynb`: Figure 7. Co-occurrence of emotions in naturalistic movies.
+`reproduce_figure6_a-c_supfig24.ipynb`: Figure 6a–c and Supplementary Figure 24. Low-dimensional organization and central-basin structure of population-level emotion dynamics.
+
+`reproduce_figure6_d-f.ipynb`: Figure 6d–f. Spatial organization of emotional states around the central basin.
+
+`reproduce_supfig11_nosmooth.ipynb`: Supplementary Figure 11. Effects of smoothing on emotion dynamic properties.
+
+`reproduce_supfig12-14.ipynb`: Supplementary Figures 12–14. Clustering and stability analysis of movie emotion dynamic profiles.
+
+`reproduce_supfig15-17.ipynb`: Supplementary Figures 15–17. Prediction of audience engagement metrics from emotion trajectories and dynamic features.
+
+`reproduce_supfig20_VA.ipynb`: Supplementary Figure 20. Relationship between principal components and LLM-derived valence and arousal ratings.
+
+`reproduce_supfig21_3d.ipynb`: Supplementary Figure 21. Three-dimensional organization of the emotion dynamic space.
+
+`reproduce_supfig22_23_statistics.ipynb`: Supplementary Figures 22–23. Statistics of adaptive window length distributions.
+
+`reproduce_supfig3_27emotions.ipynb`: Supplementary Figure 3. LLM-derived ratings of extended emotion categories from Danmu.
+
+`reproduce_supfig5.ipynb`: Supplementary Figure 5. Reliability comparison between LLM-human and human-human emotion ratings.
+
+`reproduce_supfig7_10.ipynb`: Supplementary Figures 7 and 10. Comparison between adaptive- and fixed-window emotion trajectories and their dynamic properties.
 
 ### Usage
 git clone https://github.com/ncclab-sustech/DyEmo-movieDanmu.git
